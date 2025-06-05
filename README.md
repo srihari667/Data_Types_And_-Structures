@@ -1,4 +1,4 @@
-# Data_Types_And_-Structures
+# Data_Types_And_Structures
 
 ✅ Overview
 This repository contains theoretical explanations and practical exercises based on Python data types and data structures. It covers important concepts such as lists, tuples, sets, dictionaries, strings, and includes hands-on code examples for better understanding.
